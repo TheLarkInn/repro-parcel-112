@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"_bundle_loader"},{"name":"./m","dynamic":true,"loc":{"line":1,"column":7}}],"generated":{"js":"require(\"_bundle_loader\")(require.resolve(\"./m\")).then(fn => {\n  console.log(fn(1, 2));\n});"},"hash":"1af02a82e6ad4f8efb2359483667dc5e"}
